@@ -1,2 +1,3 @@
 # Achievers-Properties
-Achievers Properties Website - Project Date 2023
+Achievers Properties WEB
+All rights reserved.
